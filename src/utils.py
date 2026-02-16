@@ -1,3 +1,4 @@
+# utils.py file holds all the utility functions(common functionality) required for the project
 import os
 import sys
 
