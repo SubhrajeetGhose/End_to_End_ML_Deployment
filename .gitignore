@@ -2,7 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+artifacts/
+catboost_info/
+notebook/
+__pycache__/
+*.pkl
+*.csv
 # C extensions
 *.so
 
